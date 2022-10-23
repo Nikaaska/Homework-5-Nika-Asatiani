@@ -9,24 +9,24 @@ body{
 	height: 50px;
 	position: fixed ;
 	
-	background-color: yellow;
+	background-color: white;
 	z-index: 10;
 
 
 }
 
 h1 {
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: 600;
 	color: #fa6980;
 	margin-top: 20px;
-	margin-left: 20px;
+	margin-left: 40px;
 	margin-right: 90px;
 	display: inline-block;
 	
 }
 
-ul {
+.ul1 {
 	margin-top: 21;
 	display: inline-block;
 	margin-bottom: 20px;
@@ -34,7 +34,7 @@ ul {
 
 }
 
-ul li {
+.li1 {
 	font-size: 10px;
 	display: inline-block;
 	font-weight: 600;
@@ -245,6 +245,7 @@ h4{
 	width: 360px;
 	height: 835px;
 	margin-left: 38px;
+	margin-bottom: 100px;
 
 
 }
@@ -270,6 +271,94 @@ h4{
 	height: 210px;
 
 }
+
+.footer{
+	position: relative;
+	margin-top: 20px;
+	width: 100%;
+	height: 200px;
+	background-color: #a6adb4;
+}
+
+.h7{
+	display: inline-block;
+	position: absolute;
+	margin-top: 58px;
+	margin-left: 150px;
+	font-size: 13px;
+	font-weight: 500;
+	color: #ffffff;
+}
+
+.ul2{
+	position: absolute;
+	display: inline-block;
+	left: 268px;
+	top: 58px;
+	font-size: 13px;
+	font-weight: 500;
+	margin-right: 69px;
+}
+
+
+.li2{
+	margin-bottom: 9px;
+}
+
+
+.ul3{
+
+	position: absolute;
+	display: inline-block;
+	left: 400px;
+	top: 58px;
+	font-size: 13px;
+	font-weight: 500;
+	margin-right: 69px;
+
+}
+
+
+.ul4{
+	position: absolute;
+	display: inline-block;
+	left: 550px;
+	top: 58px;
+	font-size: 13px;
+	font-weight: 500;
+	margin-right: 69px;
+}
+
+.h8{
+	position: absolute;
+	top: 62px;
+	left: 700px;
+	width: 209px;
+	height: 10px;
+	font-size: 11px;
+	color: #cbd0d3;
+
+}
+
+.social{
+	position: relative;
+	left: 1141px;
+	top: 56px;
+	width: 160px;
+	height: 17px;
+}
+
+
+.socimg{
+	height: 10px;
+	width: 10px;
+	display: inline-block;
+	margin-right: 16px;
+	
+}
+
+
+
 
 
 
